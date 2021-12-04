@@ -1,1 +1,2 @@
-- 273, Integer to English Words
+- 273, Integer to English Words (tricky)
+- 696, Count Binary Substrings (tricky)
