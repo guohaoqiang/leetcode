@@ -3,3 +3,11 @@
 
 - 828, Count Unique Characters of All Substrings of a Given String (F**K solution of lee215)
 - 1268, Search Suggestions System (1,Trie+DFS 2,Sort+Binary search)
+
+
+Convert a string to an integer ("666"->666): 		int num = stoi(string& )
+Convert an integer to a string (666->"666"):		string s = to_string(int& )
+Find the first occurrence of a sub string:		int pos = s.find(substr)
+Get a sub string from a string:  			s.substr(pos) or s.substr(pos,len)
+
+
