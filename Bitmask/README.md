@@ -7,3 +7,6 @@ Set the i^{th} bit of a binary number x to 1: x = x | (1 << i)
 x and -x have just one bit in common - the rightmost 1-bit. That means that x & (-x) would keep that rightmost 1-bit and set all the other bits to 0.
 
 ![avatar](rightmost.png)
+
+### flips the least significant 1-bit in n to 0 (e.g. 191)
+n &= (n-1)
