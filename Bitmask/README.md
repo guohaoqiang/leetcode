@@ -6,7 +6,7 @@ Set the i^{th} bit of a binary number x to 1: x = x | (1 << i)
 ### Only keep the rightmost bit (e.g. 231) 
 x and -x have just one bit in common - the rightmost 1-bit. That means that x & (-x) would keep that rightmost 1-bit and set all the other bits to 0.
 
-![image](data:img/jpg;base64,iVBORw0KGgoAAAANSUhEUgAABo4AAANeCAIAAACj/GuuAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAW
+![](data:img/jpg;base64,iVBORw0KGgoAAAANSUhEUgAABo4AAANeCAIAAACj/GuuAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAW
 JQAAFiUBSVIk8AAAQABJREFUeAHs3Qm8pmPdOHDMjNnsjMhSSv7ite87ZS0y9jWKlCX6WJIthEZa
 UCElS5FtiEKvLaak7HsooteuwciMMWbMzP+Xh8vTOed5znPOeZZ7+Z7P+3m7nvu+7vu+ru/vPuac
 37mWWWfOnDmLLwIECBAgQIAAAQIECBAgQIAAAQIEOi0wW6cb4PkECBAgQIAAAQIECBAgQIAAAQIE
