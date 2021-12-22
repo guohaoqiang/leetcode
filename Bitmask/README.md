@@ -10,3 +10,6 @@ x and -x have just one bit in common - the rightmost 1-bit. That means that x & 
 
 ### flips the least significant 1-bit in n to 0 (e.g. 191)
 n &= (n-1)
+
+### Exclusive OR (e.g.136)
+
