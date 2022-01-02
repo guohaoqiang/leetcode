@@ -1,0 +1,1 @@
+- 22, Generate Parentheses (slightly differ to others)
