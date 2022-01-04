@@ -9,3 +9,6 @@
 
 ### Spiral matrix
 - 59, Spiral Matrix II
+
+### List
+- 82, Remove Duplicates from Sorted List II 
