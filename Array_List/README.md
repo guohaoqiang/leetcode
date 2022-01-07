@@ -1,6 +1,5 @@
 ### Stack
 - 907, Sum of Subarray Minimums (tricky)
-- 1249, Minimum Remove to Make Valid Parentheses
 
 ### O(1) space, tricky
 - 169, Majority Element

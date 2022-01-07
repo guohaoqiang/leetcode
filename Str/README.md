@@ -15,3 +15,6 @@ Get a sub string from a string:  			s.substr(pos) or s.substr(pos,len)
 
 ### dp,stack,tricky
 - 32, Longest Valid Parentheses
+
+### stack,string
+- 1249, Minimum Remove to Make Valid Parentheses
