@@ -8,3 +8,7 @@
 
 ### Unique paths
 - 63 is a follow up of 62
+
+
+### Subsequence
+- 673 is a follow up of 300
