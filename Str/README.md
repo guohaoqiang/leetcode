@@ -18,3 +18,6 @@ Get a sub string from a string:  			s.substr(pos) or s.substr(pos,len)
 
 ### stack,string
 - 1249, Minimum Remove to Make Valid Parentheses
+
+### stream,string
+- 297, Serialize and Deserialize Binary Tree 
