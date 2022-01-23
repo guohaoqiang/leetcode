@@ -10,3 +10,6 @@
 
 ### Indirect BFS (tricky)
 - 130, Surrounded Regions
+
+### Tarjan's Bridge-Finding Algorithm (TBFA)
+- 1192, Critical Connections in a Network
