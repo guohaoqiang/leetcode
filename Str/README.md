@@ -21,3 +21,6 @@ Get a sub string from a string:  			s.substr(pos) or s.substr(pos,len)
 
 ### stream,string
 - 297, Serialize and Deserialize Binary Tree 
+
+### reorder
+- 777, Swap Adjacent in LR String
