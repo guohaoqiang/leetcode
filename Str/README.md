@@ -24,3 +24,7 @@ Get a sub string from a string:  			s.substr(pos) or s.substr(pos,len)
 
 ### reorder
 - 777, Swap Adjacent in LR String
+
+
+### Trie
+- 1032, Stream of Characters 
