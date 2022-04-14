@@ -29,3 +29,4 @@ Get a sub string from a string:  			s.substr(pos) or s.substr(pos,len)
 ### Trie
 - 1032, Stream of Characters 
 - 2135, Count Words Obtained After Adding a Letter 
+- 642, Design Search Autocomplete System
