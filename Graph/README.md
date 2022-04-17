@@ -14,3 +14,6 @@
 
 ### Tarjan's Bridge-Finding Algorithm (TBFA)
 - 1192, Critical Connections in a Network
+
+### Bipartite Graph
+- 1820, Maximum Number of Accepted Invitations
